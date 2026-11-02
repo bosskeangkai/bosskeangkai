@@ -1,28 +1,38 @@
-## Hello everyone 
-My name is Keangkai Ruangrongwat but you can call me Bos.
-I am currently studying in Electronic and Telecommunication Engineering at King Mongkut's University of Technology Thonburi, KMUTT.
+## Hello everyone 👋
 
-Apart from the field of engineering, business is what I am passionate about, such as SMEs and startups. Also I am studying and practicing about data analysis Not only I am familiar with basic data concepts in business but also excel, statistics, and programming language for data science and machine learning.
+I'm **Keangkai Ruangrongwat**, but you can call me **Bos**.
 
-More specifically, I am very enthusiastic about business and how to bring the data concept to find out business insight, marketing segmentation, or what customers really want. Four of my best friends and I began our SME and startup projects together last year, in which I was the front-end to create a website and business strategy. We also got an opportunity to practice with our senior company, where they managed the security system. At that time, we worked on license plate real-time detection, and I was responsible for the front-end. After that, I had learned more data concepts, and that was the first time that I learned the word “data-driven decision”, which made me certain that what I've chosen is the right one.
+I'm a business-minded builder with 3 years of professional experience at **Superdev Co., Ltd.**, where I grew from **Business Analyst** to **Head of Business Analyst** and now **Operation Manager**. I turn messy business problems into clear requirements, working systems, and measurable results.
 
-I hope that you will know me better. 
+More specifically, I am very enthusiastic about business and how to bring the data concept to find out business insight, marketing segmentation, or what customers really want.
 
-Interests:
-- SMEs and startups
-- Data Analyst
+## 🎓 Education
+
+- **King Mongkut's University of Technology Thonburi (KMUTT)**: Electronic and Telecommunication Engineering
+
+## 🚧 What I'm working on
+
+- **Resort PMS & website**: building a property management system and website for my family's resort
+- **Wholesale & retail ERP**: building an ERP for a family wholesale and retail business
+- **Community impact**: a project to improve the quality of life of children and farmers in Mukdahan, with a plan to scale it nationwide
+
+## 🧰 What I do
+
+- Business analysis and requirements (SRS, process mapping)
+- Operations and team management
+- Using AI to build and run business systems faster
+
+## 🎯 Interests
+
 - Business and Entrepreneur
-- Digital Marketing
-- Long-term-investing
-- Reading book
+- AI for Business
+- One Person Business
+- Reading books
 - Traveling to anywhere without Thai people
+- Basketball 🏀
 
+## 📫 How to reach me
 
-📫 How to reach me, Follow me 
-- FB:Keangkai Ruangrongwat
-- IG:Keangkai.b
-- E-Mail:bosskeangkai11@gmail.com 
-<!---
-bosskeangkai/bosskeangkai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- FB: Keangkai Ruangrongwat
+- IG: Keangkai.b
+- E-Mail: bosskeangkai11@gmail.com
